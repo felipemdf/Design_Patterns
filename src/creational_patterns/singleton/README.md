@@ -23,7 +23,7 @@ O cliente chama o método usando o nome da classe e o método singleton sempre q
  <img src="https://miro.medium.com/v2/resize:fit:434/format:webp/1*Wjz_6pCvDHNDa-BI851dCw.png" width="200" />
  </p>
 
-### Singleton
+#### Singleton
 Essa é uma classe responsável por criar e manter sua própria instância exclusiva.
 
 ### Prós

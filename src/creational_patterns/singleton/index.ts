@@ -10,7 +10,7 @@ class Singleton {
   }
 }
 
-function main() {
+export function main() {
   const instance_1 = Singleton.getInstance();
   const instance_2 = Singleton.getInstance();
 
